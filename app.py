@@ -23,8 +23,8 @@ recommended_percentages = {
     'Savings': 0.20
 }
 
-model_categories = ['HousingBudget', 'TransportationBudget', 'FoodBudget',
-                    'UtilitiesBudget', 'EntertainmentBudget', 'SavingsBudget']
+model_categories = ['Housing', 'Transportation', 'Food',
+                    'Utilities', 'Entertainment', 'Savings']
 
 # ---------------------------- #
 #           Tabs              #
